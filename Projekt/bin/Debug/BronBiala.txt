@@ -1,0 +1,40 @@
+węglowa
+z głownią stałą
+0
+TAK
+150.0
+50.0
+Mora
+Classic No.1
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/Mora.jpg
+Klasyka wśród noży bushcraftowych i myśliwskich. Nóż Mora Classic No.1 to szwedzki, praktyczny nóż użytkowy wykonany z wysoko węglowej stali, która gwarantuje twardość i odporność na tępienie. Rękojeść noża wykonana z barwionego i olejowanego drewna brzozy. W komplecie pochwa z tworzywa sztucznego.
+154CM
+motylkowy, balisong
+1
+NIE
+120.0
+1500.0
+Benchmade
+42
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/bm42.jpg
+Kultowy balisong firmy Benchmade.
+55HRC
+z głownią stałą
+2
+TAK
+206.0
+120.0
+Glock
+FM78
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/glockfm78.jpg
+Duży nóż szturmowy, będący na wyposażeniu wielu armii na świecie, m.in. Polski i Austrii. Jego producentem jest firma Glock - ta sama, która stworzyła legendarną serię pistoletów 9 mm. Nóż został opracowany w 1975 roku, a od 1976 roku jest oficjalnym nożem austriackiej armii. 
+8Cr13MoV
+składany
+3
+TAK
+92.0
+45.0
+Sanrenmu
+710
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/sanrenmu710.jpg
+Kompaktowy, wykonany w całości ze stali nóż z blokadą frame lock. Atrakcyjne wykończenie i rozmiar pozwalają go zaliczyć do gentlemen-folders, jednak jego mocna konstrukcja nie zawiedzie podczas prac domowych i outdoorowych

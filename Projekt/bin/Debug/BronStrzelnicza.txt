@@ -1,0 +1,41 @@
+15
+pistolet
+4
+TAK
+600.0
+2500.0
+Glock
+19
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/glock19.jpg
+Pistolet GLOCK jest uniwersalnym rozwiązaniem dla osób które szukają prostej i kompaktowej konstrukcji.
+15
+pistolet
+5
+TAK
+950.0
+5000.0
+Beretta
+92
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/beretta92.jpg
+Pistolet Beretta 92FS jest bronią samopowtarzalną. Działa na zasadzie krótkiego odrzutu lufy. Zamek ryglowany ryglem wahliwym. Mechanizm spustowy SA/DA.
+30
+karabin
+6
+TAK
+3800.0
+10800.0
+AK
+47
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/ak47.jpg
+Potocznie kałasznikow, karabinek automatyczny konstrukcji radzieckiej z okresu po II wojnie światowej
+30
+karabin
+7
+TAK
+3000.0
+11200.0
+M
+16
+C:/Users/Administrator/Documents/Visual Studio 2015/Projects/Projekt/Projekt/m16.png
+Amerykański karabin automatyczny skonstruowany przez
+ Eugene Stonera.
